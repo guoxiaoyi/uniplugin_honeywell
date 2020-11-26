@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="lifanli.cn.uniplugin_honeywell">
+
+    <uses-permission android:name="com.honeywell.decode.permission.DECODE" />
+</manifest>
